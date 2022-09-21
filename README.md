@@ -12,9 +12,7 @@ css = é uma forma de deixar a página visualmente bonita, ex o pintor.
 linguagem de programação =  Na internet existe uma arquitetura chamada client servidor, onde client é o que é visto, ou que é interagido com leitor de tela, a linguagem de programação (bibliotecas de javascript: java, python, swift) é o que roda no servidor. 
 
 ## HTML
-Linguagem de marcação de texto 
-O poder do html é muito grande. 
-
+é um documento, tem uma estrutura e regras de escrita. Linguagem de marcação de texto. O poder do html é muito grande. Fica só na camada do cliente. A Tag <!DOCTYPE html> é um dicionário, onde se determina qual a versão será utilizada para o documento. 
 html = roda no browser, no client
 linguagem de programação = roda no servidor 
 
@@ -30,7 +28,12 @@ o poder da web esta na sua interoperabilidade
 
 
 ## Tag
+delimitadores, tem inicio e fim. Atributos dá mais poder a tag dependendo da finalidade.
 <p>
+<title> marca os títulos das páginas do navegador.
+insert+t 
+
+
 
 ## Parágrafo
 menor  p e maior 
@@ -38,7 +41,7 @@ menor barra ao contrario p e maior
 
 ## Atributo
 propriedade e valor 
-
+alt = caso o usuário esteja com conexão ruim, o atributo alt aparecerá primeiro para o usuário. 
 
 ## Fonte 
 https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics
@@ -56,4 +59,17 @@ HTML básico - Aprendendo desenvolvimento web | MDN (mozilla.org)
  não ordenada = nvda fala bolinha marcador
  ordenada = tem sequencia numerica
  de definição = tem um item e a sua definição 
+ nvda = é verbalizado quantos itens tem a lista, e marcadores. 
  
+## Tag <a> relacionado com a diretriz 2.4.1 ignoirar blocos 
+ 131, 2410
+
+
+ 
+ ## Tag button 
+ botão = retangular, bordas
+ link padrão = texto + sublinhado na cor azul, se clicado, ele fica roxo (e no leitor fica como visitado)
+ se botão deve ter a aparência de botão 
+ se link deve ter a aparência de link 
+
+
