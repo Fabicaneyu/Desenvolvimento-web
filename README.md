@@ -46,3 +46,14 @@ HTML básico - Aprendendo desenvolvimento web | MDN (mozilla.org)
 
 ## Bug de 1.3.1 onde o título esta do mesmo tamanho do texto comum
 
+ ## Span e Div 
+ não tem valor semântico
+ div para estruturas muito genericas
+ não usar div como um botão, ou marcar texto. 
+ mas tomar cuidado onde vai usar.
+
+ ## Lista ordenada, não ordenada e de definição 
+ não ordenada = nvda fala bolinha marcador
+ ordenada = tem sequencia numerica
+ de definição = tem um item e a sua definição 
+ 
